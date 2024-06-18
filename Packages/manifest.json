@@ -15,6 +15,7 @@
     "com.unity.xr.arcore": "5.1.4",
     "com.unity.xr.arfoundation": "5.1.4",
     "com.unity.xr.arkit": "5.1.4",
+    "com.unity.xr.interaction.toolkit": "2.5.4",
     "com.unity.xr.management": "4.4.1",
     "com.unity.xr.oculus": "4.2.0",
     "com.unity.xr.openxr": "1.10.0",
